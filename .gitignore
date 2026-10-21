@@ -8,8 +8,11 @@ flights.db
 !*.py
 !.gitignore
 !*.ipynb
+!notebooks/figures/*.png
+!scraper/prices_latest.parquet
+!scraper/missing_itineraries.csv
 
-# окрім віртуального середовища
 myenv/
+tests/
 venv/
 __pycache__/
