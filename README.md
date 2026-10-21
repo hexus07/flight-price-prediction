@@ -116,7 +116,15 @@ python scraper/scraper_refactored.py --max_stops 0
 
 # then run the notebooks in order: 01 → 01b → 02
 ```
+[`google-flights`](https://github.com/hexus07/google_flight_scraper) (my own library, published on PyPI)
 
-## Tech
+## 🚀 About Me
+I'm a Python developer with a deep passion for Data Science and ML Engineering. 
 
-Python · pandas · LightGBM · matplotlib · SQLite · [`google-flights`](https://github.com/hexus07/google_flight_scraper) (my own library, published on PyPI)
+I’m constantly exploring new techniques and tools to enhance my skills and dive into solving real-world problems through data-driven insights. Whether it's building models or optimizing data pipelines or analyzing data 
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-chuhai/)
+
+[![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/hexus07)
