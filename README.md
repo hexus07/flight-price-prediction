@@ -1,5 +1,7 @@
 # Buy now or wait? Predicting flight price drops
 
+You can access data on Kaggle: https://www.kaggle.com/datasets/daniilchuhai/flights-test/data
+
 I wrote my own Google Flights client library ([`google-flights` on PyPI](https://pypi.org/project/google-flights/)),
 used it to collect **~13M price observations** for ~1M flights over 10 months,
 and tested whether a model (or a simple rule) can tell you when it's worth waiting for a cheaper ticket.
