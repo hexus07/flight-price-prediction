@@ -8,6 +8,8 @@ flights.db
 !*.py
 !.gitignore
 !*.ipynb
+!README.md
+!requirements.txt
 !notebooks/figures/*.png
 !scraper/prices_latest.parquet
 !scraper/missing_itineraries.csv
